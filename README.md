@@ -3,7 +3,7 @@
 ## Description 
 * This code is for professional only✌
 ## Activities
-* [Activity_1](https://github.com/GojitGelbert/student_list/blob/main/index.html)
+* [Activity_1](file:///c%3A/Users/Trebleg/Documents/student_list/index.html)
 ## Members
 * 👨‍💻Jaybert LL. Logatoc [Facebook](https://web.facebook.com/profile.php?id=100094664191586)
 * 👨‍💻 Gelbert G. Gojit [Facebook](https://web.facebook.com/gojitgelbert)
