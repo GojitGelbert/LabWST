@@ -1,8 +1,9 @@
 # List of Pro Students
 
 ## Description 
-* This code is for profesional only✌
+* This code is for professional only✌
 ## Activities
+* [Activity_1] (https://github.com/GojitGelbert/student_list/blob/main/index.html)
 ## Members
 * 👨‍💻Jaybert LL. Logatoc [Facebook](https://web.facebook.com/profile.php?id=100094664191586)
 * 👨‍💻 Gelbert G. Gojit [Facebook](https://web.facebook.com/gojitgelbert)
