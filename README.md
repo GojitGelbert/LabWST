@@ -1,8 +1,8 @@
 # 🧑‍💻WST (WEB SYSTEM AND TECHNOLOGY): Repository Activities
 
-## 📝Description 
+## 📑Description 
 * This repository is use for accomplishing activities of the basic fundamentals of Web System and Technology(WST) 
-## 📂📚Activities
+## 📝Activities
 * Activity - 1: Creating a static website about HTML tags.
 ## 🤵‍♂️Members
 * 👨‍💻 Jaybert LL. Logatoc [Facebook](https://web.facebook.com/profile.php?id=100094664191586)
