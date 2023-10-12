@@ -1,9 +1,9 @@
-# List of Pro Students
+# WST (WEB SYSTEM AND TECHNOLOGY): Repository Activities
 
 ## Description 
-* This code is for professional only✌
+* This repository is use for accomplishing activities of the basic fundamentals of Web System and Technology(WST) 
 ## Activities
-* [Activity_1](https://github.com/GojitGelbert/student_list)
+* Activity - 1 : Creating a static website about HTML tags.
 ## Members
 * 👨‍💻Jaybert LL. Logatoc [Facebook](https://web.facebook.com/profile.php?id=100094664191586)
 * 👨‍💻 Gelbert G. Gojit [Facebook](https://web.facebook.com/gojitgelbert)
@@ -12,3 +12,11 @@
 * 👨‍💻 Vincent Madrona [Facebook](https://web.facebook.com/vincentrusellmadrona)
 * 👨‍💻Harvey Madrona [Facebook](https://web.facebook.com/harbmadrona)
 ## Acknowledgment
+This is the software application and website used to make this activities accomplish. 
+
+* [W3schools](https://www.w3schools.com/html/)
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+* [Github](https://github.com/)
+
