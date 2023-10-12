@@ -4,7 +4,7 @@
 * This repository is use for accomplishing activities of the basic fundamentals of Web System and Technology(WST) 
 ## 📝Activities
 * 🗒️ Activity 1: Creating a static website about HTML tags.
-* 🗒️ Activity 2: Deploying and Creating a HTML tags to github pages.
+* 🗒️ Activity 2: Deploying a Created a HTML tags to github pages.
 ## 🤵‍♂️Members
 * 👨‍💻 Jaybert LL. Logatoc [Facebook](https://web.facebook.com/profile.php?id=100094664191586)
 * 👨‍💻 Gelbert G. Gojit [Facebook](https://web.facebook.com/gojitgelbert)
@@ -18,3 +18,4 @@ This is the software application and website used to make this activities accomp
 * [W3schools](https://www.w3schools.com/html/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Github](https://github.com/)
+* [Github Page](https://pages.github.com/)
