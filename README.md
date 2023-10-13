@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![CodingCat](./assets/Image/pairProgramming-640w.png)
+![CodingCat](./Assets/Image/pairProgramming-640w.png)
 
 </p>
 
