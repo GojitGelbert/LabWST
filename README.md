@@ -1,5 +1,10 @@
 # 🧑‍💻WST (WEB SYSTEM AND TECHNOLOGY): Repository Activities
 
+<p align="center">
+
+![CodingCat](./assets/Image/pairProgramming-640w.png)
+
+</p>
 ## 📑Description 
 * This repository is use for accomplishing activities of the basic fundamentals of Web System and Technology(WST) 
 ## 📝Activities
