@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![CodingCat](./Assets/Image/8101cd62178e2cf3c4134a7f7a90a193.png)
+![CodingCat](./Assets/Image/github%20background%20image.png)
 
 </p>
 
