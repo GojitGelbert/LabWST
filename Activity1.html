@@ -7,8 +7,10 @@
 
 </head>
     <body>
-        <br><br>
-
+        <br>
+        <a href="./index.html">
+            <button type="button"> << GO BACK</button>
+          </a><br>
         <center>
         <img height="100px" width="100px" src="./Assets/Image/logo.webp" alt="sample_image">
         <h2>Welcome to HTML Home page</h2>
@@ -101,10 +103,104 @@
     </ol>
 
     <center>
-    <hr><h2>HTML tags, used for creating forms</h2></hr>
+    <hr><h2><img height="30px" width="30px" src="./Assets/Image/html logo.png" alt="sample_image"> HTML tags, used for creating forms</h2></hr>
+    <i><h2>Different Kinds of Input types in HTML tags</h2></i>
     </center>
 
-    <i><h3>Different Kinds of Input types in HTML tags</h3></i>
+    <br>
     <h3>Here are some of the examples</h3>
-    <h3>Input/Text type</h3>
+    <h3><li>Input/Text type</li></h3>
+    <ol><p>This is an example of a text type input</p></ol>
+    <ol>
+    <form action="#" method="post">
+        <label for="first_name"><b>First Name:</b></label><br>
+        <input type="text" name="first_name" placeholder="Enter your username" required>
+      </form>
+    </ol>
+    <ol><p>You can also put a label on it by using the label tag '< label >' or even a placeholder or set it to required, so that the input text type has some label on it.</p></ol>
+    <ol><p>Which as you can see on this code below:</p></ol>
+    <ol><img src="./Assets/Image/Screenshot 1.png" alt="sample_image"></ol>
+    <ol><p>You can also make one for password and number, just change the input type into 'password' or 'number'.</p></ol>
+    <ol><form action="#" method="post">
+        <label for="password"><b>Password:</b></label><br>
+        <input type="password" name="password" placeholder="Enter your password" required>
+    </form>
+    </ol>
+    <ol><form action="#" method="post">
+        <label for="num"><b>Number:</b></label><br>
+        <input type="number" name="num" placeholder="Enter a number" required>
+    </form>
+    </ol>
+    <h3><li>Input/button type</li></h3>
+    <ol><p>There are many types of input button in html: </p>
+    <p>Just like in the previous code, by adding a input submit type can create a save button, etc...</p>
+      <li>
+        <h3>Submit button</h3>
+        <form method="post">
+          <label for="username">Username:</label>
+          <input type="text" name="username">
+          <input type="submit" value="save" name="username">
+        </form>
+        <p>See code below: </p>
+    <img src="./Assets/Image/Screenshot 2.png" alt="sample_image"></li>
+    <br>
+      <li>
+        <h3>Reset button:</h3>
+        <form method="post">
+          <label for="username">Username:</label>
+          <input type="text" name="username">
+          <input type="reset" value="clear" name="username">
+        </form>
+        <p>See code below: </p>
+    <img src="./Assets/Image/Screenshot 3.png" alt="sample_image">
+      </li>
+      <br>
+      <li>
+        <h3>Radio buttons:</h3>
+        <p>Which OS are you using right now?</p>
+        <form method="post">
+          <input type="radio" id="windows" name="OS" value="Windows">
+          <label for="windows">Windows</label><br>
+          <input type="radio" id="linux" name="OS" value="Linux">
+          <label for="linux">Linux</label><br>
+          <input type="radio" id="mac_os" name="OS" value="Mac OS">
+          <label for="mac_os">Mac OS</label><br>
+        </form>
+        <p>See code below: </p>
+    <img src="./Assets/Image/Screenshot 4.png" alt="sample_image">
+    </li>
+    <br>
+  <li>
+    <h3>CHECKBOXES</h3>
+        <p>What program language useful to create a website? </p>
+        <form method="post">
+          <input type="checkbox" id="html" name="Html" value="HTML">
+          <label for="html">HTML</label><br>
+          <input type="checkbox" id="javascript" name="javascript" value="Javascript">
+          <label for="javascript">Javascript</label><br>
+          <input type="checkbox" id="php" name="Php" value="PHP">
+          <label for="php">PHP</label><br>
+          <input type="checkbox" id="typescript" name="typescript" value="Typescript">
+          <label for="typescript">Typescript</label><br>
+        </form>
+        <p>See code below: </p>
+    <img src="./Assets/Image/Screenshot 5.png" alt="sample_image">
+  </li>
+</ol>
+  <br>
+<hr>
+<center>
+    <h1>Members</h1><br>
+    <big><h3>Gelbert G. Gojit</h3></big>
+    <big><h3>John Mark G. Garcia</h3></big>
+    <big><h3>Harvey Madrona</h3></big>
+    <big><h3>Vincent Madrona</h3></big>
+    <big><h3>Genesis Baldido</h3></big>
+    <big><h3>Jaybert LL. Logatoc</h3></big>
+    <h3>BSIT 3 Block - 1</h3>
+    <br>
+    <form method="post">
+        <input type="submit" value="Go Back ⇈" name="go back">
+      </form>
+</center>
 </html>
